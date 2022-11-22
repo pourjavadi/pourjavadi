@@ -3,7 +3,7 @@
 
 - 💻 I’m Network Security Engineer & Penetration Testing, Specialist  
 
-- 🧬 I’m currently learning **DevOps Engineering** | 📫 Mail : **info@Pourjavadi.ir**
+- 🧬 I’m currently learning **DevOps Engineering** | 📫 Mail : **info@Pourjavadi.ir** | **Pourjavadi.ir@Gmail.com**
 
 <h3 align="left">### 🚀 I'm on Social Networks :</h3>
 <p align="center">

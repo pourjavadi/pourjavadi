@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amir Pourjavadi</h1>
 <h3 align="center">A professional Software Engineer 🚀 having an experience of building Web and Server applications / Team leading and DevOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amupxm&label=Profile%20views&color=0e75b6&style=flat" alt="amupxm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pourjavadi&label=Profile%20views&color=0e75b6&style=flat" alt="Amir Pourjavadi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amupxm" target="blank"><img src="https://img.shields.io/twitter/follow/amupxm?logo=twitter&style=for-the-badge" alt="amupxm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pourjavadi" target="blank"><img src="https://img.shields.io/twitter/follow/pourjavadi?logo=twitter&style=for-the-badge" alt="amupxm" /></a> </p>
 
 - 🔭 I’m currently working on **MRC project**
 

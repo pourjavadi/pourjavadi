@@ -3,7 +3,7 @@
 
 - 💻 I’m Network Security Engineer & Penetration Testing, Specialist  
 
-- 🧬 I’m currently learning **DevOps Engineering** | 📫 Mail : **info@Pourjavadi.ir** | **Pourjavadi.ir@Gmail.com**
+- 🧬 I’m currently learning **DevOps Engineering** | 📫 Mail : **info@Pourjavadi.ir** | 
 
 <h3 align="left">### 🚀 I'm on Social Networks :</h3>
 <p align="center">
@@ -15,7 +15,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://instagram.com/pourjavadi.ir">
+			<a href="https://instagram.com/amirftx">
 				<img src="https://www.svgrepo.com/show/197957/instagram.svg" height="48" width="48" alt="instagram"/>
 			</a>
 		</td>
@@ -30,7 +30,7 @@
 			</a>
 		</td>
 		<td>
-			<a href="https://t.me/pourjavadi">
+			<a href="https://t.me/AmirFTX">
 				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
 			</a>
 		</td>

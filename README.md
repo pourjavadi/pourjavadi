@@ -17,9 +17,18 @@
 ---
 
 ### 🛠 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,react,tailwind,nestjs,postgres,mongodb,python,bash,go,flutter,java,kotlin,arduino" />
-</p>
+💻 **System Administration & Networking:**
+- 🐧 Linux (Expert)
+- 🎛️ Mikrotik (Full Mastery)
+- 🛡️ Network Security & Penetration Testing (12+ Years Experience)
+
+📜 **Programming & Scripting:**
+- 🐍 Python | 🐘 PHP | 🟦 Lua | 🖥️ Bash | ⚙️ Go
+- 🔗 Web & Backend: Nginx, Docker, NestJS, PostgreSQL, MongoDB
+
+🚀 **DevOps & Cloud:**
+- 🏗️ Containerization (Docker, Kubernetes)
+- ☁️ Cloudflare, CI/CD, Automation
 
 ---
 

@@ -17,23 +17,23 @@
 ---
 
 ### 🛠 Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,react,tailwind,nestjs,postgres,mongodb,python,bash,go,flutter,java,kotlin,arduino" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 GitHub Overview:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourjavadi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjavadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjavadi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pourjavadi&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ---

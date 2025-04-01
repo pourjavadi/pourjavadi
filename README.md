@@ -2,15 +2,15 @@
 
 🚀 **Network Security Engineer & Penetration Tester**  
 📖 Currently diving into **DevOps Engineering**  
-📩 Reach me at: [info@pourjavadi.ir](mailto:info@pourjavadi.ir)
+📩 Reach me at: [Pourjavadi@Yahoo.com](mailto:Pourjavadi@Yahoo.com)
 
 ---
 
 ### 🌍 Connect with me:
 <p align="center">
-  <a href="https://instagram.com/amirftx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/pourjavadi.ir"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://twitter.com/pourjavadi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://t.me/AmirFTX"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/pourjavadi"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/pourjavadi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 

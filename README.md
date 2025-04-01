@@ -34,12 +34,12 @@
 
 ### 🚀 GitHub Overview:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjavadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjavadi&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pourjavadi&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pourjavadi&theme=default" alt="Profile Summary" />
 </p>
 
 ---

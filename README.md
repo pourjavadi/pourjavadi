@@ -1,62 +1,42 @@
-<h1 align="center">Hi 👋, I'm Amir Pourjavadi</h1>
-<h3 align="center">📚 Welcome to my page, I hope you can use the information and projects I have provided, and I will try to program the best for you, I am always your friend, if you have any problems, please contact me.</h3>
+### Hi there! I'm Amir Pourjavadi 👋
 
-- 💻 I’m Network Security Engineer & Penetration Testing, Specialist  
+🚀 **Network Security Engineer & Penetration Tester**  
+📖 Currently diving into **DevOps Engineering**  
+📩 Reach me at: [info@pourjavadi.ir](mailto:info@pourjavadi.ir)
 
-- 🧬 I’m currently learning **DevOps Engineering** | 📫 Mail : **info@Pourjavadi.ir** | 
+---
 
-<h3 align="left">### 🚀 I'm on Social Networks :</h3>
+### 🌍 Connect with me:
 <p align="center">
-<table>
-	<tr>
-		<td>
-			<a href="#">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/facebook.svg" height="48" width="48" alt="Facebook"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://instagram.com/amirftx">
-				<img src="https://www.svgrepo.com/show/197957/instagram.svg" height="48" width="48" alt="instagram"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://twitter.com/pourjavadi">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/raw/master/public/images/icons/twitter.svg" height="48" width="48" alt="Twitter"/>
-			</a>
-		</td>
-		<td>
-			<a href="#">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/whatsapp.svg" height="48" width="48" alt="WhatsApp"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://t.me/AmirFTX">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg" height="48" width="48" alt="Telegram"/>
-			</a>
-		</td>
-		<td>
-			<a href="https://www.linkedin.com/pourjavadi">
-				<img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/linkedin.svg" height="48" width="48" alt="LinkedIn"/>
-			</a>
-		</td>
-	</tr>
-</table>
-
+  <a href="https://instagram.com/amirftx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/pourjavadi"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://t.me/AmirFTX"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pourjavadi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<a href="https://twitter.com/pourjavadi" target="blank">
-<img src="https://img.shields.io/twitter/follow/pourjavadi?logo=twitter&style=for-the-badge" alt="Amir Pourjavadi" /></a> </p>
+---
 
-<h3 align="left">Languages & Tools :</h3>
+### 🛠 Tech Stack:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cs,androidstudio,angular,arduino,atom,bash,bootstrap,cloudflare,codepen,css,html,discord,django,electron,figma,flutter,github,gitlab,go,idea,java,js,jquery,kotlin,laravel,linkedin,linux,mongodb,mysql,nestjs,nextjs,nginx,nodejs,nuxtjs,perl,php,py,postgres,powershell,raspberrypi,react,redis,rocket,ruby,sass,stackoverflow,selenium,swift,vscode,visualstudio,wordpress,xd" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,nginx,react,tailwind,nestjs,postgres,mongodb,python,bash,go,flutter,java,kotlin,arduino" />
 </p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&locale=en" alt="Amir Pourjavadi" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pourjavadi&theme=radical" alt="GitHub Streak" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pourjavadi&show_icons=true&locale=en&layout=compact" alt="Amir Pourjavadi" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pourjavadi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-<hr>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pourjavadi&label=Profile%20views&color=0e75b6&style=flat" alt="Amir Pourjavadi" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pourjavadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Fun Fact:
+🖥️ I automate **everything** | 🕶️ Cybersecurity is my passion | 🌱 Always learning new tech
